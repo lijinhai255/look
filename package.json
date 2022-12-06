@@ -11,7 +11,7 @@
         "axios": "^0.19.2",
         "core-js": "^3.6.4",
         "koa": "^2.11.0",
-        "koa-bodyparser": "^3.2.0",
+        "koa-bodyparser": "^4.3.0",
         "koa-compress": "^2.0.0",
         "koa-convert": "^1.2.0",
         "koa-logger": "^2.0.0",
